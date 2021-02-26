@@ -1,0 +1,27 @@
+body { 
+  
+}
+.title {
+   color: rgb(225,0,0);
+   cursor: not-allowed;
+}
+.pad-left{
+	padding-left: 2em;
+}
+.dna{
+  background: url(DNA.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.white{
+	color: red
+}
+.lt{
+	background: url(header.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
